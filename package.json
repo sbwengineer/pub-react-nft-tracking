@@ -1,6 +1,7 @@
 {
   "name": "template-backend",
   "version": "1.0.0",
+  "homepage": ".",
   "description": "template-backend",
   "main": "index.js",
   "scripts": {
