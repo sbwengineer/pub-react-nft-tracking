@@ -17,7 +17,6 @@
   "bugs": {
     "url": "https://github.com/SOLAR-STORM-GAMING/template-backend/issues"
   },
-  "homepage": "https://github.com/SOLAR-STORM-GAMING/template-backend#readme",
   "dependencies": {
     "body-parser": "^1.19.1",
     "cors": "^2.8.5",
